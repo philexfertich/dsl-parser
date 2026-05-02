@@ -2,7 +2,7 @@
 
 A parser for custom domain-specific language.
 
-First of all, the parser is made for the [cli game engine](https://github.com/philexlive/cli-game-engine), I recommend you check it out.
+First of all, the parser is made for the [cli game engine](https://github.com/philexfertich/cli-game-engine), I recommend you check it out.
 
 ## Quick start
 
